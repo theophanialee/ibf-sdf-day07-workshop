@@ -8,3 +8,10 @@ h1 {
     margin: 50px;
 
   }
+
+  div {
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: linear;
+    transition-delay: 1s;
+  }
