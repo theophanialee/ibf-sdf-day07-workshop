@@ -1,4 +1,10 @@
-h2 {
+h1 {
+    color: pink;
+    font-family: verdana;
+    font-size: 300%;
+  }
+  h2 {
     border: 2px solid powderblue;
     margin: 50px;
+
   }
