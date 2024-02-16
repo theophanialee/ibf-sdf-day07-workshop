@@ -7,7 +7,6 @@ body {
 
 h1 {
     color: pink;
-    font-family: verdana;
     font-size: 300%;
   }
   h2 {
@@ -18,7 +17,7 @@ h1 {
 
   .button {
     padding: 5px 15px;
-    font-size: 24px;
+    font-size: 15px;
     text-align: center;
     cursor: pointer;
     outline: none;
